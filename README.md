@@ -1,4 +1,4 @@
-# Multithreaded-Web-Server
+# CS: 744 Multithreaded-Web-Server
 
 ## Overview
 
