@@ -1,8 +1,4 @@
 # Multithreaded-Web-Server
-Got it! Here's an updated `README.md` for your project:
-
-```markdown
-# Echo Client/Server with Multi-threading
 
 ## Overview
 
